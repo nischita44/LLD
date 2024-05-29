@@ -1,0 +1,54 @@
+1. A situation where I had to learn something new and deliver with a deadline.
+
+During my time at my second company, I faced a challenging project where I had to learn
+and deliver something entirely new within a tight deadline. As a native Android developer,
+I was tasked with integrating the newly launched Theta 360 camera, which had limited documentation,
+ into a hybrid mobile application using the Cordova plugin in the Ionic framework.
+ This integration was specifically for Android tablets.
+
+The project was critical as the camera integration was for construction teams in the US,
+including a team from Gartner, and the iOS developer in the US depended on the Android integration being completed first.
+
+I tackled this challenge by thoroughly researching the Theta 360 SDK,
+collaborating closely with my supportive team, and systematically testing across different Android versions on tablets.
+Regular check-ins with the iOS developer ensured alignment and timely issue resolution.
+
+Through persistent effort and effective communication, I successfully integrated the Theta 360 camera within the
+deadline, significantly benefiting the construction teams.
+This experience enhanced my technical skills and ability to adapt to new technologies under pressure.
+
+
+2. Tell me about a time you gave a simple solution to a complex problem.
+
+Situation
+As a research analyst, I was tasked with developing an application to monitor pill consumption
+for Alzheimer's disease patients. The goal was to accurately track whether patients took their medication.
+
+Task
+My objective was to cTell me about a time you gave a simple solution to a complex problem.reate a system that could detect whether a pill was present, absent,
+consumed, or not consumed by analyzing video footage.
+
+Action
+Data Collection: I recorded 10 videos using an iPhone, capturing different scenarios of pill consumption.
+Data Preparation: I extracted frames from the videos, resulting in 200 training images and 60 testing images.
+Data Annotation: I annotated the images into four classes (Tablet_Present, Tablet_Absent, Pill_Consumed,
+Pill_Not_Consumed) and converted the data into TensorFlow-compatible tfrecords.
+Model Training: I trained a MobileNet SSD model using TensorFlow 2.4, running 14,000 steps on a CUDA GPU.
+Validation: The model achieved 92% accuracy on the collected images with a 95% confidence threshold.
+Web Application: I developed a web application using Node.js to capture video and predict pill status,
+integrating IBM Cloud for data storage.
+
+Result
+The solution was highly effective, achieving 92% accuracy and significantly reducing labor costs for hospitals.
+ Our work was published in an ISJCT paper, demonstrating the potential of AI applications in healthcare.
+
+
+
+
+
+
+
+
+
+
+

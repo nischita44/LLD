@@ -1,0 +1,4 @@
+You have a social network where each user has a list of friends.
+You want to filter users based on certain criteria such as age range and city of residence.
+The search should traverse the network using BFS to find all matching users within a certain degree of connection
+(e.g., friends of friends up to 2 levels deep).

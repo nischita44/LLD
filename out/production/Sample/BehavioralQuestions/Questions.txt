@@ -1,0 +1,21 @@
+1. A situation where I had to learn something new and deliver with a deadline.
+
+During my time at my second company, I faced a challenging project where I had to learn
+and deliver something entirely new within a tight deadline. As a native Android developer,
+I was tasked with integrating the newly launched Theta 360 camera, which had limited documentation,
+ into a hybrid mobile application using the Cordova plugin in the Ionic framework.
+ This integration was specifically for Android tablets.
+
+The project was critical as the camera integration was for construction teams in the US,
+including a team from Gartner, and the iOS developer in the US depended on the Android integration being completed first.
+
+I tackled this challenge by thoroughly researching the Theta 360 SDK,
+collaborating closely with my supportive team, and systematically testing across different Android versions on tablets.
+Regular check-ins with the iOS developer ensured alignment and timely issue resolution.
+
+Through persistent effort and effective communication, I successfully integrated the Theta 360 camera within the
+deadline, significantly benefiting the construction teams.
+This experience enhanced my technical skills and ability to adapt to new technologies under pressure.
+
+
+

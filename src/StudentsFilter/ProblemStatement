@@ -1,0 +1,7 @@
+Let’s create a new scenario where you will use the Specification pattern to filter a list of students based on various
+criteria such as grade, age, and city.
+
+Specification pattern - filter
+
+Students - POJO Class
+
